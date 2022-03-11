@@ -1,0 +1,13 @@
+.main-info{
+    display:flex;
+    position: absolute;
+    color:var(--font-color);
+    top: 0;
+    Left: 0;
+    Right: 0;
+    Bottom: 0;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    z-index:1;
+}
