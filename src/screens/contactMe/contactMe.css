@@ -19,6 +19,11 @@
   color: var(--light-color);
 }
 
+#break{
+
+  color: rgb(34, 38, 42);
+}
+
 @media only screen and (max-width: 600px){
   .contactMe__data__links {
     flex-direction: column;
