@@ -23,6 +23,10 @@ margin-bottom:1rem;
 .about__text{
 
 max-width:600px;
+display:flex;
+
+justify-content:space-flex-center;
+align-items:flex-start;
 
 }
 
