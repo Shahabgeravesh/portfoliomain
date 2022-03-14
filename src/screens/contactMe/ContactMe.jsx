@@ -20,7 +20,7 @@ function ContactMe() {
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" target="_blank" />
           </a>
           <p id="break">break</p>
-          <p> (669) 254-0922</p>
+
 
 
         </div>
