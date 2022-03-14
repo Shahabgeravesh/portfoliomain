@@ -4,16 +4,21 @@ import './header.css';
 
 function Header() {
     return (
+
         <div className="main-info">
             <h1>
                 Who am I?
             </h1>
             <Typed
                 strings={['Front-End Developer', 'Data Science Engineer', " "]}
-                typeSpeed={40}
-                backSpeed={50}
+                typeSpeed={10}
+                backSpeed={30}
                 loop />
+
         </div>
+
+
+
     )
 }
 
