@@ -10,7 +10,7 @@ function AboutMe() {
 
             </div>
             <div className="about__container">
-                <img src={Avatar} alt="Shahab Avatar" />
+                <img className="aboutimg" src={Avatar} alt="Shahab Avatar" />
                 <h5 ClassName="about-text">I'm a Data Scientist and a Fullstack Web Developer. My Interests are building new Web Technologies and Products, Data Analytics, Machine Learning, and Deep Learning. I apply my passion for developing products with MERN Stack.</h5>
 
             </div>
