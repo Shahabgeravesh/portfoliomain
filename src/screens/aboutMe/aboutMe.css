@@ -2,28 +2,30 @@
 
     margin: 3rem 0;
     display:flex;
-    flex-direction: row;
-    justify-content:space-evenly;
+    flex-direction: column;
+    justify-content:space-between;
     align-items:center;
 
 
 }
 
-.about__container img{
-border-radius:50%;
+img{
+    display: flex inline-block;
+    justify-content: flex-end;
+    border-radius:50%;
 border:0.5px solid rgb(218,218,218);
 margin-bottom:1rem;
 }
 
-
-
-.about__text{
-
+.about-text{
 max-width:600px;
-display:flex;
-justify-content:space-center;
-align-items:flex-start;
+display:inline-block;
 
+}
+
+.about-me{
+    display: flex;
+    justify-content:center;
 }
 
 /*----------------------------------------------------------------Media Queries---------------*/
